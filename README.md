@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanahmad768&label=Profile%20views&color=0e75b6&style=flat" alt="arslanahmad768" /> </p>
 
-- 🔭 I’m currently working on [DCS](https://dcs2.mzjtechnology.com/)
+- 🔭 I’m currently working on [PACT](https://pact.rinnce.ai/)
 
 - 🌱 I’m currently learning **React JS**
 
