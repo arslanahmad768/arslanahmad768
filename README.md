@@ -3,11 +3,9 @@
 <h3 align="center">A passionate Python developer from Pakistan</h3>
 <img align="right" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Boy in a jacket" width="400" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanahmad768&label=Profile%20views&color=0e75b6&style=flat" alt="arslanahmad768" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanahmad768&label=Profile%20views&color=0e75b6&style=flat" alt="arslanahmad768" /> </p> -->
 
 - 🔭 I’m currently working on [PACT](https://pact.rinnce.ai/)
-
-- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Python Tasks**
 
