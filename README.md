@@ -1,17 +1,14 @@
-
 # Hi, I'm Arslan Ahmad 👋
 
 ### Python Backend & Full-Stack Developer | AI Integrations & Workflow Automation
 
-I build web applications, backend services, AI-powered features, and automation workflows that solve practical business problems.
+I’m a software developer with 4+ years of professional experience building web applications, backend services, AI-powered features, and automation workflows.
 
-My experience spans Python backend development, REST APIs, React.js and Next.js interfaces, database-backed applications, third-party integrations, and background processing. I enjoy working across the stack, understanding how systems fit together, and turning requirements into reliable software.
+I work across the stack, from building Python APIs and backend workflows to developing frontend interfaces with React.js and Next.js. My experience includes integrating LLM capabilities into applications, connecting third-party services, improving data-ingestion pipelines, and automating repetitive business processes.
 
-- 🔧 **Backend:** Python, FastAPI, Django, Flask, REST APIs
-- 🖥️ **Full-stack:** React.js, Next.js, JavaScript, TypeScript
-- 🤖 **AI & automation:** LLM integrations, MCP, workflow automation, data pipelines
-- 🗄️ **Data & infrastructure:** PostgreSQL, MySQL, Redis, Celery, Docker, AWS
-- 🌍 **Open to:** Remote roles, international opportunities, and freelance projects
+I'm interested in building reliable software that solves real problems, whether that's a backend service, a full-stack product, or an AI-powered workflow.
+
+**Current focus:** Python backend engineering, full-stack product development, AI integrations, and workflow automation.
 
 ## Engineering Highlights
 
