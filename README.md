@@ -1,22 +1,61 @@
-![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
-<h1 align="center">Hi 👋, I'm Arslan Ahmad</h1>
-<h3 align="center">A passionate Python developer from Pakistan</h3>
-<img align="right" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Boy in a jacket" width="400" />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanahmad768&label=Profile%20views&color=0e75b6&style=flat" alt="arslanahmad768" /> </p> -->
+# Hi, I'm Arslan Ahmad 👋
 
-- 🔭 I’m currently working on [PACT](https://pact.rinnce.ai/)
+### Python Backend & Full-Stack Developer | AI Integrations & Workflow Automation
 
-- 💬 Ask me about **Python Tasks**
+I build web applications, backend services, AI-powered features, and automation workflows that solve practical business problems.
 
-- 📫 How to reach me **arslanahmaddeve@gmail.com**
+My experience spans Python backend development, REST APIs, React.js and Next.js interfaces, database-backed applications, third-party integrations, and background processing. I enjoy working across the stack, understanding how systems fit together, and turning requirements into reliable software.
 
-- ⚡ Fun fact **If a task is repetitive, I’ve probably tried to automate it.**
+- 🔧 **Backend:** Python, FastAPI, Django, Flask, REST APIs
+- 🖥️ **Full-stack:** React.js, Next.js, JavaScript, TypeScript
+- 🤖 **AI & automation:** LLM integrations, MCP, workflow automation, data pipelines
+- 🗄️ **Data & infrastructure:** PostgreSQL, MySQL, Redis, Celery, Docker, AWS
+- 🌍 **Open to:** Remote roles, international opportunities, and freelance projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arslan-ahmed-python-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-ahmed-python-developer" height="30" width="40" /></a>
-</p>
+## Engineering Highlights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- **Faster AI content generation:** Helped reduce a generation workflow from approximately 15 minutes to 3–5 minutes by breaking prompts into smaller, focused steps.
+- **Improved data ingestion:** Increased valid records per run from 7 to 27 in a specific ingestion workflow, with zero rejected records reported in those runs.
+- **Reporting automation:** Built Python workflows to process spreadsheets, remove duplicate records, extract insights, and generate PDF reports.
+- **Full-stack product development:** Contributed to React.js interfaces, FastAPI backend functionality, API integrations, source and citation displays, and background workflows.
+
+These results relate to specific projects and workflows rather than guaranteed performance across all systems.
+
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **Backend & APIs** | Django, Django REST Framework, FastAPI, Flask, RESTful APIs, WebSockets |
+| **Background Processing & Testing** | Celery, DBOS, Pytest, Unit Testing, Integration Testing, TDD |
+| **Frontend** | React.js, Next.js, Bootstrap, Tailwind CSS, Jinja, Django Template Language (DTL), FlutterFlow |
+| **AI & LLM** | LangChain, OpenAI / ChatGPT API, Perplexity AI, Gemini 2.5 Flash Image (Nano Banana), MCP, Langfuse, ElevenLabs, RunwayML, ImagineArt |
+| **Scraping & Automation** | Web Scraping, FireCrawl, Apify Actors, Python Automation Scripts, n8n, Make.com |
+| **Databases & Search** | PostgreSQL, Supabase, PostGIS, MySQL, Microsoft SQL Server, Redis, Elasticsearch |
+| **Cloud & Deployment** | AWS (ECS Fargate, EC2, SNS, S3, CloudWatch), Google Cloud Run, Microsoft Azure, DigitalOcean VPS, Hetzner Object Storage, Vercel |
+| **DevOps & Monitoring** | Docker, Cloudflare, Let's Encrypt, Sentry, CI/CD |
+| **Integrations & Tools** | Stripe, Resend, Git, ClickUp |
+
+
+## Featured Work
+
+Explore my pinned repositories below for examples of my backend, full-stack, and AI-related development work.
+
+I'm particularly interested in projects involving:
+
+- Python APIs and backend architecture
+- Full-stack web applications
+- AI-powered product features and LLM integrations
+- Workflow automation and data processing
+- Database design, performance, and application reliability
+
+## Let's Connect
+
+- 🌐 **Portfolio:** [arslanahmad-myself-d0b0.vercel.app](https://arslanahmad-myself-d0b0.vercel.app/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/arslan-ahmed-python-developer/)
+- 📧 **Email:** [arslanahmaddeve@gmail.com](mailto:arslanahmaddeve@gmail.com)
+- 💻 **GitHub:** [@arslanahmad768](https://github.com/arslanahmad768)
+
+I'm open to opportunities where I can contribute to backend engineering, full-stack product development, and practical AI solutions.
