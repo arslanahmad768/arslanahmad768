@@ -24,8 +24,8 @@ These results relate to specific projects and workflows rather than guaranteed p
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, JavaScript |
-| **Backend & APIs** | Django, Django REST Framework, FastAPI, Flask, RESTful APIs, WebSockets |
+| **Languages** | Python, JavaScript, TypeScript, C++, C# |
+| **Backend & APIs** | Django, Django REST Framework, FastAPI, Flask, RESTful APIs, WebSockets, .Net |
 | **Background Processing & Testing** | Celery, DBOS, Pytest, Unit Testing, Integration Testing, TDD |
 | **Frontend** | React.js, Next.js, Bootstrap, Tailwind CSS, Jinja, Django Template Language (DTL), FlutterFlow |
 | **AI & LLM** | LangChain, OpenAI / ChatGPT API, Perplexity AI, Gemini 2.5 Flash Image (Nano Banana), MCP, Langfuse, ElevenLabs, RunwayML, ImagineArt |
