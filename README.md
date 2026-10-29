@@ -38,15 +38,27 @@ These results relate to specific projects and workflows rather than guaranteed p
 
 ## Featured Work
 
-Explore my pinned repositories below for examples of my backend, full-stack, and AI-related development work.
+### [ReceptAI](https://github.com/arslanahmad768/ReceptAI)
+AI-powered lead generation and outreach workflow for discovering prospects, qualifying leads, finding contact information, and preparing personalized outreach.
 
-I'm particularly interested in projects involving:
+**Focus:** Python, AI integrations, web data extraction, workflow automation.
 
-- Python APIs and backend architecture
-- Full-stack web applications
-- AI-powered product features and LLM integrations
-- Workflow automation and data processing
-- Database design, performance, and application reliability
+### [E-Commerce App With AI-Based Recommendation](https://github.com/arslanahmad768/Ecommerce-App-With-AI-Based-Recommendation)
+An e-commerce application with AI-based product recommendation functionality.
+
+**Focus:** Web application development, recommendation logic, backend APIs, database integration.
+
+### [fuel-route-api](https://github.com/arslanahmad768/fuel-route-api)
+A Django REST API for planning driving routes and identifying economical fuel stops along a journey.
+
+**Focus:** Django REST Framework, API integration, route planning, data processing.
+
+### [Urdu-Grammarly](https://github.com/arslanahmad768/Urdu-Grammarly)
+An Urdu language assistance project focused on spelling and grammar correction.
+
+**Focus:** NLP, language processing, model integration.
+
+Some of my professional client and company projects use private repositories. My portfolio describes selected professional contributions that cannot be shared as public source code.
 
 ## Let's Connect
 
