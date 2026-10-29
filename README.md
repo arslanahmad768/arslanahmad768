@@ -2,13 +2,11 @@
 
 ### Python Backend & Full-Stack Developer | AI Integrations & Workflow Automation
 
-I’m a software developer with 4+ years of professional experience building web applications, backend services, AI-powered features, and automation workflows.
+I’m a software developer with experience building web applications, backend services, AI-powered features, and automation workflows.
 
 I work across the stack, from building Python APIs and backend workflows to developing frontend interfaces with React.js and Next.js. My experience includes integrating LLM capabilities into applications, connecting third-party services, improving data-ingestion pipelines, and automating repetitive business processes.
 
 I'm interested in building reliable software that solves real problems, whether that's a backend service, a full-stack product, or an AI-powered workflow.
-
-**Current focus:** Python backend engineering, full-stack product development, AI integrations, and workflow automation.
 
 ## Engineering Highlights
 
